@@ -1,0 +1,233 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The first speech of Master Pym, the last Parliament. Concerning liberty of Parliament. Generals concerniug [sic] religion. Generals concerning civill government.</title>
+            <author>Pym, John, 1584-1643.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91382</idno>
+            <idno type="STC">Wing P4267</idno>
+            <idno type="STC">Thomason E105_3</idno>
+            <idno type="STC">ESTC R16058</idno>
+            <idno type="EEBO-CITATION">99859961</idno>
+            <idno type="PROQUEST">99859961</idno>
+            <idno type="VID">112065</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91382)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112065)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 19:E105[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The first speech of Master Pym, the last Parliament. Concerning liberty of Parliament. Generals concerniug [sic] religion. Generals concerning civill government.</title>
+                  <author>Pym, John, 1584-1643.</author>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed, 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reissue of the 1641 edition, with the last digit of publication date overprinted with a "3".</note>
+                  <note>Annotation on Thomason copy: "June ye 5. 1643".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1625-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112065:1" rendition="simple:additions"/>
+            <p>THE FIRST SPEECH OF Maſter Pym, The laſt Parliament.</p>
+            <p>Concerning
+<list>
+                  <item>Liberty of Parliament.</item>
+                  <item>Generals concerning Religion.</item>
+                  <item>Generals concerning Civill go<g ref="char:EOLhyphen"/>vernment.</item>
+               </list>
+            </p>
+            <figure>
+               <q xml:lang="lat">IN DOMINO CONFIDO</q>
+               <figDesc>printer's deivce</figDesc>
+            </figure>
+            <p>
+               <add>June y<hi rend="sup">e</hi> 5<hi rend="sup">th</hi> 1643</add> London Printed, 1643.</p>
+            <pb facs="tcp:112065:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb n="1" facs="tcp:112065:2"/>
+            <head>A SPEECH DELIVERED IN Parliament by M. <hi>Pym,</hi> in the Houſe of COMMONS, <hi>April,</hi> 1640.</head>
+            <p>HEE that takes away weights from the motions, doth as good ſervice as hee that addes wings unto it. Theſe weights are old grievances, whereof there are three heads.</p>
+            <list>
+               <item>1. Firſt, liberty of Parliament.</item>
+               <item>2. Generals concerning Religion.</item>
+               <item>3. Generals concerning civill government.</item>
+            </list>
+            <p>I ſhall prove that theſe grievances are more grievous to the King, then they are to the Sub<g ref="char:EOLhyphen"/>ject.</p>
+            <p>I ſhall propoſe ſome waies of remedy, juſt and eaſie.</p>
+            <p>
+               <pb n="2" facs="tcp:112065:3"/>
+That Kings can doe no wrong, is their juſt prerogative; The diſtemper of the world is not cauſed by the celeſtiall bodies, but by the inferiour: In like manner of a Kingdome.</p>
+            <p>Generall grievances concerning Religion, which we poſſeſſe by the Lawes of God, and of the Land.</p>
+            <p>Encouragements given to the Popiſh Reli<g ref="char:EOLhyphen"/>gion, I deſire no new Lawes to be made againſt them, not a rigid execution of thoſe that are already enacted.</p>
+            <p>But this we are ſure of, that if they once get the ſuperiority, their Religion is deſtructive of all others.</p>
+            <p>We muſt looke upon a Papiſt as he is in himſelfe, but not as he is in the Church.</p>
+            <p>The Planets have a quiet motion of their owne, but they are interrupted by another.</p>
+            <div type="part">
+               <head>The particular encouragements.</head>
+               <p>Firſt, Ceſſation of all Law, that were not made to raiſe a Revenue to the King, but to ſuppreſſe Idolatry, and to reſtrain Errors.</p>
+               <p>A free communication of Councels through the Kingdome.</p>
+               <p>Papiſts, being admitted to places of truſt, and power in the Common-wealth.</p>
+               <p>There is a Congregation at Rome, who plot how England may be reduced, and here in Eng<g ref="char:EOLhyphen"/>land we have a <hi>Nuncio,</hi> to put in execution what they reſolve of there.</p>
+            </div>
+            <div type="part">
+               <pb n="3" facs="tcp:112065:3"/>
+               <head>Innovations to prepare us to Poperie.</head>
+               <p>
+                  <list>
+                     <item>1. FIrſt, divers Bookes printed, Queſtions publiſhed and maintained in the Uni<g ref="char:EOLhyphen"/>verſitie.</item>
+                     <item>2. Secondly, Popiſh Ceremonies introdu<g ref="char:EOLhyphen"/>ced: when the drie bones were to be made a man, they were joyned firſt in the ſinewes, and then they were to be animated.</item>
+                     <item>3. Thirdly, Diſcouragements upon the pro<g ref="char:EOLhyphen"/>feſſors of Proteſtant Religion, things of indif<g ref="char:EOLhyphen"/>ferency urged, to make the difference wider amongſt as many queſtions, where there is no ground in Law, upon the Biſhops authority, not upon the Kings authority, under the great Seale or Proclamation.</item>
+                     <item>4. Fourthly, Encouragements of authority to Eccleſiaſticall Courts.
+<list>
+                           <item>1. Firſt, To fine and impriſon in ſome caſes illegally.</item>
+                           <item>2. Secondly, To affirme their juriſdiction to be derived from the Crowne, and ſay it is <hi>Iure divino,</hi> and therefore we are bound to maintain the prerogative of the Crowne.</item>
+                           <item>
+                              <p>3. Thirdly, Many ordinances ſet out, new Articles to examine Church-wardens.</p>
+                              <p>In the Common-law there is a title of ex<g ref="char:EOLhyphen"/>travagants, and ſo are theſe.</p>
+                           </item>
+                           <item>
+                              <pb n="4" facs="tcp:112065:4"/>
+4. Fourthly, Generals againſt civill Go<g ref="char:EOLhyphen"/>vernment.
+<list>
+                                 <item>1. Firſt, taking of tunnage and poundage, and all other impoſitions.</item>
+                                 <item>2. Secondly, Knighthood.</item>
+                                 <item>3. Thirdly, inundation of Monopolies, and commodities not only exported, but con<g ref="char:EOLhyphen"/>ſumed at home, as Sope, Drink, Salt, and that which is very comprehenſive, the Shipmoney.</item>
+                                 <item>4. Fourthly, There is a countenance of judgement for it againſt all other judgements, and book Caſes.</item>
+                                 <item>5. Fifthly, That which ſomewhat ſtickes by me, that is, the Forreſt, and I might eaſily looke my ſelfe in it.</item>
+                                 <item>6. Sixthly, The ſale and farming of Nu<g ref="char:EOLhyphen"/>ſances, being compounded for the aſſeſſe to be Nuſances, and are licenſed, as buildings, depo<g ref="char:EOLhyphen"/>pulations, &amp;c.</item>
+                                 <item>7. Seventhly, military charges, and com<g ref="char:EOLhyphen"/>poſitions raiſed upon the Subject without ground of Law, conduct-monies, preſſing Cart-horſes, &amp;c.</item>
+                                 <item>8. Eighthly, Extrajudiciall proceedings, a teeming grievance, the Judges will preſume to anticipate their judgements.</item>
+                                 <item>9. Ninthly, the authorities of Courts of Juſtice have countenanced theſe Monopolies, as the Star-Chamber hath done againſt the Sheriffes, for not collecting Ship-money.</item>
+                                 <item>10. Tenthly, The Lords of the privy Coun<g ref="char:EOLhyphen"/>cell have aſſiſted them.</item>
+                                 <item>
+                                    <pb n="5" facs="tcp:112065:4"/>
+11. Eleventhly, the prerogative hath been vouched for the maintainance of them.</item>
+                                 <item>12. Twelvethly, The Conſcience hath been preſſed in this point, betwixt the prerogative, and liberty broken.</item>
+                              </list>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+               </p>
+               <p>Manwarring for his offence in this kinde, was as neere the ground as ever I ſaw any, and I did not thinke he ſhould have leapt into a Bi<g ref="char:EOLhyphen"/>ſhops Chaire.</p>
+            </div>
+            <div type="part">
+               <head>Intermiſsions of Parliament, the King ſummons them, but we humbly deſire the benefit of the Law in that point.</head>
+               <p>AS theſe grievances are to the Subject prejudiciall, ſo are they to the King much more.</p>
+               <p n="1">1. Firſt, this not liberty of the Parliament cuts off the ſweete communion that ought to be betwixt the head and the members.</p>
+               <p n="2">2. Secondly, it deprives the King of the preſent ſupply, and benefit the King hath by Subſidie.</p>
+               <p n="3">3. Thirdly, it leſſeneth his reputation abroad.</p>
+               <p n="4">4. Fourthly, by the breaches in, and upon Religion he hath loſt a great part of his Alli<g ref="char:EOLhyphen"/>ance with Proteſtant States abroad, loſt a great many Subſidies at home, becauſe of the preſ<g ref="char:EOLhyphen"/>ſing of indifferent things.</p>
+               <p n="5">5. Fifthly, who will be induſtrious where he hath no propriety?</p>
+               <p n="6">
+                  <pb n="6" facs="tcp:112065:5"/>
+6. Sixthly, It breeds many jealouſies, wee can remember when it hath bred diſtemper<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and one Summers diſtemper will conſume more wealth then ever this Monopoly brought in.</p>
+               <p n="7">7. Seaventhly, The Princes that have main<g ref="char:EOLhyphen"/>tained their Subjects liberty, have been moſt glorious therein.</p>
+            </div>
+            <div type="part">
+               <head>What he omitted in each due place, is here inſerted.</head>
+               <p>THat not only compoſition was laid on goods imported and exported out of this Kingdome, but alſo on goods that were carried from one forraigne Countrey to another, as from Spaine to France, <hi>&amp; vice verſa.</hi>
+               </p>
+               <p>Another way is that for want of a legall way of accounting a great deale of the profit ſtickes by the way, and comes not to the Kings purſe.</p>
+               <p>The King hath farmed the Wines for thirty thouſand pounds, the Farmors make forty thouſand pounds, at the ſale by retaile, it a<g ref="char:EOLhyphen"/>mounts to two hundred thirty and two thou<g ref="char:EOLhyphen"/>ſand pounds.</p>
+            </div>
+            <div type="part">
+               <head>Remedies.</head>
+               <p>Firſt, preſent it to the higher houſe, they joyning to goe to the King, as in the land of Aegypt whileſt the darkneſs was amongſt them the Sun did give light, and the people had their viſionable faculty, which was only hin<g ref="char:EOLhyphen"/>dred by the interpoſition of the darkneſſe.</p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
